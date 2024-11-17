@@ -1,5 +1,3 @@
 console.log('hello coder')
 
-
-
-console.log('Work harder and you will get there')
+console.log('im new here')
